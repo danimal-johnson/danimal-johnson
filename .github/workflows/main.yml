@@ -18,8 +18,8 @@ jobs:
 
     steps:
       # generates the snake game. outputs svg animations.
-      name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk/svg-only@v2  
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2  
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
