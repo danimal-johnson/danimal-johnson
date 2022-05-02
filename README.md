@@ -66,7 +66,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 
 <!-- Contribution graph -->
-![Snake animation](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg)
+### Snake Game
+![Snake animation](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 
 <!-- Links to social media accounts -->
