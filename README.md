@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Deploy-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Depoloy-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
