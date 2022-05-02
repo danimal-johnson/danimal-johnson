@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 [![Wordle Without Z](https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=wordle-without-z)](https://github.com/danimal-johnson/wordle-without-z)
 
+<!-- A new section -->
+<div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimal-johnson&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=danimal-johnson&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 <!-- Source for cards: https://github.com/anuraghazra/github-readme-stats -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -57,7 +64,12 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+
+<!-- Contribution graph -->
+![Snake animation](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- Links to social media accounts -->
 
 [1]: https://twitter.com/dan10000_
 [2]: https://www.linkedin.com/in/danimal-johnson/
