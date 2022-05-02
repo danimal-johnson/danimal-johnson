@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Dan Johnson, a full-stack developer with a strong interest in projects that do good in the world...
 
 <!--
 **danimal-johnson/danimal-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimal-johnson&show_icons=true)](https://github.com/danimal-johnson/github-readme-stats)
+## Featured Projects
+[![Wordle Without Z](https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=wordle-without-z&theme=dracula)](https://github.com/danimal-johnson/wordle-without-z)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimal-johnson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Wordle Without Z](https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=wordle-without-z)](https://github.com/danimal-johnson/wordle-without-z)
-
-<!-- A new section -->
+## Stats
 <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/danimal-johnson">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimal-johnson&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=danimal-johnson&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danimal-johnson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
 </div>
 
+## Skills
 <!-- Source for cards: https://github.com/anuraghazra/github-readme-stats -->
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -73,3 +73,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/dan10000_
 [2]: https://www.linkedin.com/in/danimal-johnson/
+
+### Contact me
+<div> 
+  <a href="https://www.linkedin.com/in/danimal-johnson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a -->
+  <!-- a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a -->
+  <a href = "mailto: danimal.johnson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+</div>
