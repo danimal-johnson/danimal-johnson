@@ -19,35 +19,38 @@ Here are some ideas to get you started:
 
 ## Pinned Projects
 <div>
-<a href="https://github.com/danimal-johnson/wordle-without-z"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=wordle-without-z&theme=dracula" alt="Wordle Without Z">
+<a href="https://github.com/danimal-johnson/wordle-without-z"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=wordle-without-z&theme=dracula" alt="Wordle Without Z">
 </a>
 <a href="https://github.com/danimal-johnson/pwned-password-tester"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=pwned-password-tester&theme=dracula" alt="Pwned Password Tester">
 </a>
-<a href="https://github.com/ncov-us/ncov19-vacc-dash-back-end"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ncov19-us&repo=ncov19-vacc-dash-back-end&theme=dracula" alt="COVID 19 Vaccine Dashboard">
+<a href="https://github.com/ncov-us/ncov19-vacc-dash-back-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncov19-us&repo=ncov19-vacc-dash-back-end&theme=dracula" alt="COVID 19 Vaccine Dashboard">
+</a>
+<a href="https://github.com/danimal-johnson/React-Github-User-Card"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=React-Github-User-Card&theme=dracula" alt="React Github User Card">
 </a>
 <a href="(https://github.com/BloomTech-Labs/djhelper-be"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=djhelper-be&theme=dracula" alt="DJ Helper Back End">
 </a>
 <a href="https://github.com/danimal-johnson/bw-replate1-2-20/backend"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=bw-replate1-2-20&repo=backend&theme=dracula" alt="Replate Back End">
 </a>
-<a href="https://github.com/danimal-johnson/React-Github-User-Card"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=React-Github-User-Card&theme=dracula" alt="React Github User Card">
-</a>
 </div>
 
-<!-- This way only allows one per line -- 
+<!-- This is also possible...
 [![Pwned Password Tester](https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=pwned-password-tester&theme=dracula)](https://github.com/danimal-johnson/pwned-password-tester)
-
 [![COVID 19 Vaccine Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ncov19-us&repo=ncov19-vacc-dash-back-end&theme=dracula)](https://github.com/ncov-us/ncov19-vacc-dash-back-end)
-
 [![DJ Helper Back End](https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=djhelper-be&theme=dracula)](https://github.com/BloomTech-Labs/djhelper-be)
-
 [![Replate Back End](https://github-readme-stats.vercel.app/api/pin/?username=bw-replate1-2-20&repo=backend&theme=dracula)](https://github.com/danimal-johnson/bw-replate1-2-20/backend)
-
 [![React Github User Card](https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=React-Github-User-Card&theme=dracula)](https://github.com/danimal-johnson/React-Github-User-Card)
 -->
 
 <br>
-<!-- Source for cards: https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- Contribution graph. Requires GitHub Actions. -->
+## Delicious contribution graph
+![GitHub Snake Light](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ## Stats
+<!-- Source for cards: https://github.com/anuraghazra/github-readme-stats -->
 <div>
   <a href="https://github.com/danimal-johnson">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimal-johnson&layout=compact&langs_count=16&theme=dracula"/>
@@ -56,11 +59,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-<!-- Contribution graph. Requires GitHub Actions. -->
-## Delicious contribution graph
-![GitHub Snake Light](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
