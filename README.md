@@ -67,7 +67,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Contribution graph -->
 ### Snake Game
-![Snake animation](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+![Snake animation](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg)
+
+#### By mode:
+![GitHub Snake Light](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/danimal-johnson/danimal-johnson/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <!-- Links to social media accounts -->
@@ -81,6 +85,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
   <!-- a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a -->
   <!-- a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a -->
   <a href = "mailto: danimal.johnson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
+</br>
 </br>
 </div>
