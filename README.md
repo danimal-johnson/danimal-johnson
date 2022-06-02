@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Dan Johnson, a full-stack developer with a strong interest in projects that do good in the world...
+I'm Dan, a full-stack developer with a strong interest in projects that do good in the world...
 
 <!--
 **danimal-johnson/danimal-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
