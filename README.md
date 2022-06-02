@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/danimal-johnson/React-Github-User-Card"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danimal-johnson&repo=React-Github-User-Card&theme=dracula" alt="React Github User Card">
 </a>
-<a href="(https://github.com/BloomTech-Labs/djhelper-be"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=djhelper-be&theme=dracula" alt="DJ Helper Back End">
+<a href="https://github.com/BloomTech-Labs/djhelper-be"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=djhelper-be&theme=dracula" alt="DJ Helper Back End">
 </a>
 <a href="https://github.com/danimal-johnson/bw-replate1-2-20/backend"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=bw-replate1-2-20&repo=backend&theme=dracula" alt="Replate Back End">
 </a>
